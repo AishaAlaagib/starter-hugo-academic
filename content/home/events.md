@@ -25,7 +25,7 @@ Next Events :
   - title: Deep Learning Indaba
     company: ''
     company_url: 'https://deeplearningindaba.com/2022/indaba/organisers/'
-    company_logo: org-gc
+    company_logo: ''
     location: ''
     date_start: '2024-09-03'
     date_end: '2024-09-10'
