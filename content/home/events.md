@@ -11,8 +11,11 @@ design:
   columns: '2'
 ---
 
-  - The 1st place female-identified African citizen currently residing in Africa , ICLR Workshop Challenge 1: CGIAR Computer Vision for Crop Disease. 2020.
-  - The 1st place of the Snapshot Serengeti Hackathon challenge , Deep Learning Indaba 2019. Nairobi, Kenya
-  - Winning the cassava challenge which is part of kaggle competitions and travel award to CVPR 2019.
-  - AMMI Scholarship , Full scholarship for the African Master in Machine Intelligence (AMMI). 2018
-  - AIMS Scholarship , Master card foundation scholarship for one year master program at AIMS. 2017.
+Next Events:
+
+  - May, 2023: Co-organizer [Practical Machine Learning for Developing Countries Workshop](https://pml4dc.github.io/iclr2023/) at ICLR 2023, Kigali, Rwanda. 
+  - Aug, 2022: Co-organizer [TrustAI Workshop](https://trustaideepindaba.github.io/) at Deep Learning Indaba, Tunis..
+  - Aug, 2022: Serve as a programme committee for the [Deep Learning Indaba](https://deeplearningindaba.com/2022/indaba/organisers/), Tunis.
+
+Past Events:
+  - Aug, 2022: Serve as a programme committee for the [Deep Learning Indaba](https://deeplearningindaba.com/2022/indaba/organisers/), Tunis.
