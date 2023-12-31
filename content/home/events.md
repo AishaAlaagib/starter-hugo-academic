@@ -1,10 +1,10 @@
 ---
-# An instance of the Experience widget.
+# An instance of the Events widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
+widget: events
 
 # This file represents a page section.
-headless: false
+headless: True
 
 # Order that this section appears on the page.
 weight: 13
