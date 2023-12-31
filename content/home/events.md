@@ -10,13 +10,13 @@ headless: false
 weight: 13
 
 title: Events
+
 subtitle: Next Events
 
-  * ABC
-  * DFK
-  * 
-subtitle: Past Events
-  * KLMJ
+      * ABC
+      * DFK
+   
+
 design:
   columns: '2'
 ---
