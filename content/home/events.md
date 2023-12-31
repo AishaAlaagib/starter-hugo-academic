@@ -9,7 +9,7 @@ headless: false
 # Order that this section appears on the page.
 weight: 15
 
-title: Experience
+title: Events Co-organization
 subtitle:
 
 # Date format for experience
@@ -21,20 +21,16 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: Research Assistant
-    company: DFKI
-    company_url: 'https://www.dfki.de/web/forschung/forschungsbereiche/data-science-und-ihre-anwendungen'
+Next Events :
+  - title: Deep Learning Indaba
+    company: 
+    company_url: 'https://deeplearningindaba.com/2022/indaba/organisers/'
     company_logo: org-gc
-    location: Germany
-    date_start: '2022-11-15'
-    date_end: ''
+    location: 
+    date_start: '2024-09-03'
+    date_end: '2024-09-10'
     description: |2-
-        Responsibilities include:
-        
-        * Studying the tensions between fairness and the right to erasure in the context of machine learning (i.e machine unlearning).
-        * Advised by [Prof. Seth Flaxman]('https://sethrf.com/') and [Prof Sebastian vollmer]('https://sebastian.vollmer.ms/').
-
+      
 design:
   columns: '2'
 ---
