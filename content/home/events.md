@@ -13,9 +13,11 @@ design:
 
 Next Events:
 
-  - May, 2023: Co-organizer [Practical Machine Learning for Developing Countries Workshop](https://pml4dc.github.io/iclr2023/) at ICLR 2023, Kigali, Rwanda. 
-  - Aug, 2022: Co-organizer [TrustAI Workshop](https://trustaideepindaba.github.io/) at Deep Learning Indaba, Tunis..
-  - Aug, 2022: Serve as a programme committee for the [Deep Learning Indaba](https://deeplearningindaba.com/2022/indaba/organisers/), Tunis.
+  - May, 2024: Workshop co-organization, [5th Practical Machine Learning for Developing Countries Workshop](https://pml4dc.github.io/iclr2023/) at ICLR 2024, Vienna, Austria. 
+  - Sep, 2024: Conference Committees (programme committee) for the [Deep Learning Indaba](https://deeplearningindaba.com/2023/indaba/organisers/), Senegal.
 
 Past Events:
-  - Aug, 2022: Serve as a programme committee for the [Deep Learning Indaba](https://deeplearningindaba.com/2022/indaba/organisers/), Tunis.
+  - Sep, 2023: Workshop co-organization, [2nd Trustworthy AI Workshop – TrustAI @ DeepIndaba 2023](https://trustaideepindaba.github.io/), Accra Ghana.
+  - May, 2023: Workshop co-organization, [4th Practical Machine Learning for Developing Countries Workshop](https://pml4dc.github.io/iclr2023/) at ICLR 2023, Kigali, Rwanda.
+  - Aug, 2022: Workshop co-organization, [1st Trustworthy AI Workshop – TrustAI @ DeepIndaba 2022](https://trustaideepindaba.github.io/), Tunisia.
+  - Aug, 2022: Conference Committees (programme committee) for the [Deep Learning Indaba](https://deeplearningindaba.com/2022/indaba/organisers/), Tunis.
