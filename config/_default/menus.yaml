@@ -16,7 +16,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 20
-  - name: Honors
+  - name: Awards
     url: '#tags'
     weight: 40
 #   - name: Posts
