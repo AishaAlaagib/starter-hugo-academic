@@ -89,7 +89,7 @@ In other news, I am very passionate about ML community, teaching, learning and r
 
 <!-- {{< icon name="download" pack="fas" >}} Download my [resume]('https://drive.google.com/file/d/15GmMc6WD01R2Y4ISvYm66E9SBrRU6yXD/view?usp=share_link') -->
 
-# ML & DL Communities:
+## ML & DL Communities:
 
   - [Deep Learning Indaba](https://deeplearningindaba.com/about/our-mission/)
   - [Black in AI](https://blackinai.github.io/#/)
