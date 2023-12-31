@@ -1,7 +1,7 @@
 ---
 # An instance of the Events widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: events
+widget: experience
 
 # This file represents a page section.
 headless: false
