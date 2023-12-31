@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Events
-    url: '#posts'
+    url: '#events'
     weight: 13
   - name: experience
     url: '#experience'
