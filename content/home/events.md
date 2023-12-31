@@ -1,5 +1,5 @@
 ---
-# An instance of the Events widget.
+# An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
@@ -11,6 +11,7 @@ weight: 13
 
 title: Events
 subtitle: Next Events
+
   - title: Research Assistant
     company: DFKI
     company_url: 'https://www.dfki.de/web/forschung/forschungsbereiche/data-science-und-ihre-anwendungen'
@@ -23,9 +24,6 @@ subtitle: Next Events
         
         * Studying the tensions between fairness and the right to erasure in the context of machine learning (i.e machine unlearning).
         * Advised by [Prof. Seth Flaxman]('https://sethrf.com/') and [Prof Sebastian vollmer]('https://sebastian.vollmer.ms/').
-
-
-
 subtitle: Past Events
   - 
 design:
