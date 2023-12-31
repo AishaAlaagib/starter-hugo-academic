@@ -23,14 +23,19 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 Next Events :
   - title: Deep Learning Indaba
-    company: 
+    company: ''
     company_url: 'https://deeplearningindaba.com/2022/indaba/organisers/'
     company_logo: org-gc
-    location: 
+    location: ''
     date_start: '2024-09-03'
     date_end: '2024-09-10'
     description: |2-
-      
+        Responsibilities include:
+        
+        * Work on Multimodal using memory shared to learn the single representation for the objects.
+        * Engage in all parts of the research process including reading relevant literature, running experiments and writing results.
+        * Advised by Prof. Sanja Fidler.
+
 design:
   columns: '2'
 ---
