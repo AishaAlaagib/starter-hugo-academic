@@ -57,6 +57,7 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
+title: 'Washing The Unwashable : On The (Im)possibility of Fairwashing Detection'
 
 ---
 
