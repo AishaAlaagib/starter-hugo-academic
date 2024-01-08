@@ -13,7 +13,8 @@ design:
 
 Next Events:
 
-  - May, 2024: Workshop co-organization, [5th Practical Machine Learning for Developing Countries Workshop](https://pml4dc.github.io/iclr2023/) at ICLR 2024, Vienna, Austria. 
+  - May, 2024: Workshop co-organization, [5th Practical Machine Learning for Developing Countries Workshop](https://pml4dc.github.io/iclr2023/) at ICLR 2024, Vienna, Austria.
+  - Aug, 2024: Workshop co-organization, [Trustworthy AI Workshop- TrustAI @  [IJCAI-24](https://ijcai24.org/), Jeju. 
   - Sep, 2024: Conference Committees (programme committee) for the [Deep Learning Indaba](https://deeplearningindaba.com/2023/indaba/organisers/), Senegal.
 
 Past Events:
