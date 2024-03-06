@@ -28,7 +28,7 @@ experience:
     company_logo: org-gc
     location: Germany
     date_start: '2022-11-15'
-    date_end: ''
+    date_end: '2023-04-15'
     description: |2-
         Responsibilities include:
         
