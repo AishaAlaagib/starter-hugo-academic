@@ -48,8 +48,8 @@ featured: true
  # - name: Custom Link
  
 
-#url_pdf: 'https://proceedings.neurips.cc/paper_files/paper/2022/file/5b84864ff8474fd742c66f219b2eaac1-Paper-Conference.pdf'
-#url_code: 'https://github.com/cleverhans-lab/FRAUD-Detect'
+url_pdf: 'https://proceedings.neurips.cc/paper_files/paper/2022/file/5b84864ff8474fd742c66f219b2eaac1-Paper-Conference.pdf'
+url_code: 'https://github.com/cleverhans-lab/FRAUD-Detect'
 url_dataset: ''
 url_poster: ''
 url_project: ''
