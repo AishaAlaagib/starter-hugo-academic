@@ -6,7 +6,7 @@ title: 'Web App for Cassava Leaves’ Diseases Detection'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Sara Ebrahim
-  - Aisha Alaagib
+  - admin
   - Awa Samake
   - Yasser S. E. Bouchareb
 # Author notes (optional)
