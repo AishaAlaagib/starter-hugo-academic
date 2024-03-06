@@ -7,7 +7,36 @@ title: 'Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuni
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Shivalika Singh,Freddie Vargus, Daniel Dsouza, Börje F. Karlsson, Abinaya Mahendiran, Wei-Yin Ko, Herumb Shandilya, Jay Patel, Deividas Mataciunas, Laura OMahony, Mike Zhang, Ramith Hettiarachchi, Joseph Wilson, Marina Machado, Luisa Souza Moura, Dominik Krzemiński, Hakimeh Fadaei, Irem Ergün, Ifeoma Okoh, admin, Oshan Mudannayake, Zaid Alyafeai, Vu Minh Chien, Sebastian Ruder, Surya Guthikonda, Emad A. Alghamdi, Sebastian Gehrmann, Niklas Muennighoff, Max Bartolo, Julia Kreutzer, Ahmet Üstün, Marzieh Fadaee, Sara Hooker
+  - Shivalika Singh
+  - Freddie Vargus
+  - Daniel Dsouza
+  - Börje F. Karlsson
+  - Abinaya Mahendiran
+  - Wei-Yin Ko, Herumb Shandilya
+  - Jay Patel, Deividas Mataciunas
+  - Laura OMahony, Mike Zhang
+  - Ramith Hettiarachchi
+  - Joseph Wilson
+  - Marina Machado
+  - Luisa Souza Moura
+  - Dominik Krzemiński
+  - Hakimeh Fadaei
+  - Irem Ergün
+  - Ifeoma Okoh
+  - admin
+  - Oshan Mudannayake
+  - Zaid Alyafeai
+  - Vu Minh Chien
+  - Sebastian Ruder
+  - Surya Guthikonda
+  - Emad A. Alghamdi
+  - Sebastian Gehrmann
+  - Niklas Muennighoff
+  - Max Bartolo
+  - Julia Kreutzer
+  - Ahmet Üstün
+  - Marzieh Fadaee
+  - Sara Hooker
 # Author notes (optional)
 #author_notes:
 #- 'Equal contribution'
