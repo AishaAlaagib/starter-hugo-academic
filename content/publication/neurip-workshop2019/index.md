@@ -28,7 +28,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *WIML Workshop,NeurIPS*
-publication_short: In *NeurIPS 2019*
+publication_short: In *WIML Workshop, NeurIPS 2019*
 
 
 #tags: []
